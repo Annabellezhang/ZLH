@@ -1,0 +1,99 @@
+Auburndale	1068
+Bedford Park	2305
+Brownsville	2899
+Carroll Gardens	342389
+Clinton	5566086
+Downtown	441716
+East Village	6132707
+Garment District	9138792
+Greenwich Village	8034560
+Greenwood	23282
+Hamilton Heights	303195
+Mapleton-Flatlands	17077
+Middle Village	3466
+Ridgewood	6926
+Riverdale	1719
+Saintalbans	757
+Soho	3955737
+Sunny Side	586211
+Sunset Park	9190
+Washington Heights	202925
+Woodhaven-Richmond Hill	6996
+Yorkville	1305804
+Battery Park	1416335
+Canarsie	3343
+Chelsea	11726321
+Chinatown	604329
+City Island	125
+East Harlem	516602
+Forest Hills	72465
+Glendale	2382
+Hunts Point	1578
+Midtown	27685047
+Morris Heights	5080
+Morris Park	1686
+Mott Haven	35273
+Parkchester	5842
+South Bronx	9511
+Steinway	418
+Williamsburg	970679
+Astoria-Long Island City	859181
+Bay Ridge	8059
+Boerum Hill	265798
+Bushwick	52213
+Clearview	358
+Fordham	2016
+Gramercy	13588153
+High Bridge	12374
+Inwood	10766
+Jamaica	40324
+Laurelton	1244
+Nkew Gardens	20830
+Throggs Neck	1139
+Tribeca	3006370
+Union Port	2302
+Upper East Side	22214056
+West Village	4545594
+Woodlawn-Nordwood	869
+Bensonhurst	2943
+Cobble Hill	129882
+Corona	7357
+Financial District	3520304
+Flushing	26098
+Fort Green	464613
+Jackson Heights	132249
+Little Italy	1597022
+Lower East Side	3962797
+Maspeth	16687
+Morningside Heights	1146175
+Murray Hill	5751275
+Park Slope	228303
+Queensboro Hill	1961
+Spuyten Duyvil	888
+The Rockaways	577
+University Heights	2237
+Wakefield-Williamsbridge	958
+Williams Bridge	923
+Baychester	210
+Bedford-Stuyvesant	84651
+Borough Park	23703
+Carnegie Hill	1898248
+Central Park	2228644
+College Point	2
+Country Club	671
+Douglastown-Little Neck	2955
+Dyker Heights	1629
+East Brooklyn	4126
+Eastchester	4
+Flatbush	409
+Gravesend-Sheepshead Bay	7105
+Harlem	740616
+Kings Bridge	2484
+North Sutton Area	1819099
+Queens Village	1223
+Soundview	2687
+Springfield Gardens	5759
+Tremont	3084
+Upper West Side	13543193
+Utopia	14462
+Woodside	141894

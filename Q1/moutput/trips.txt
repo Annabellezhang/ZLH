@@ -1,0 +1,4 @@
+Bronx	83591
+Brooklyn	2619011
+Manhattan	156645120
+Queens	1946854
